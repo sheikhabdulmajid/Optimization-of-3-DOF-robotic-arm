@@ -1,1 +1,1 @@
-# Optimization-of a 3 DOF Robotic Arm
+# Optimization-of-a-3-DOF-Robotic-Arm
