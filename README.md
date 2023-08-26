@@ -1,5 +1,5 @@
 # Optimization-of-a-3-DOF-Robotic-Arm
-Analysis and optimization of the kinematic and dynamic paramters of a 3 DOF surgical arm with RPR joint configuration.
+Analysis and optimization of the kinematic and dynamic paramters of a 3 DOF surgical arm with RPR joint configuration, for surgical operations.
 
 Problem Statement: Determine the optimum and most energy-efficient trajectory of the end effector of a robotic arm for surgical operations.
 
